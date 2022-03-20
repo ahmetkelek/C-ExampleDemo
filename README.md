@@ -2,4 +2,4 @@
 
 ### Görseller 
 
-<image src="./image/CRUDExample.png">
+<image src="image/CRUDExample.png">
